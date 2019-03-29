@@ -1,0 +1,4 @@
+#Fri Mar 29 12:01:44 ICT 2019
+base.0=D\:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\TwoActivities\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
